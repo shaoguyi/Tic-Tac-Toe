@@ -1,0 +1,23 @@
+body{
+    background-image: url("./design_system/background.jpg");
+    background-size: cover;
+}
+.navigation{
+    background-color: rgb(164, 231, 231);
+}
+.navigation ul{
+    margin: 0;padding: 35px;
+}
+.navigation ul li{
+    display: flex; margin: 0; padding: 35px; font-weight: bolder; font-size: large;
+}
+.navigation ul li:hover{
+    background-color: bisque;
+}
+.left corner{
+    float: left;
+}
+.right corner{
+    float: right;
+    display: flex;
+}

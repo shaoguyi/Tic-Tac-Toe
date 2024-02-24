@@ -1,0 +1,21 @@
+img{
+    width:500px; height: 550px;
+}
+body{
+    background-color:rgb(198, 191, 224);
+}
+span{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+button{
+    font-size: large;
+}
+p{
+    font-size: x-large;
+    font-weight: bolder;
+}
+#tictactoe{
+    width: 1100px;
+    height: 600px;
+}
