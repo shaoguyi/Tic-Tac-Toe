@@ -1,2 +1,5 @@
 Guyi
-![image](https://github.com/shaoguyi/yatzy/assets/114022474/7111f6d2-f2ad-48c1-9848-d9c151ddf9e6)
+
+
+![image](https://github.com/shaoguyi/yatzy/assets/114022474/2f4b188b-cc05-4fe9-aab7-864fde77e461)
+
