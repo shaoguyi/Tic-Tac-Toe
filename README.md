@@ -1,7 +1,7 @@
 Guyi Shao 300167461
 
 Pour jouer au Tic Tac Toe, ouvrir index2.html, jouer au clique.
-J'ai ajoute Tic Tac Toe a projects dans le portfolio, ovrir index.hmtl pour le voir.
+J'ai ajoute Tic Tac Toe aux projects dans le portfolio, ovrir index.html pour le voir.
 
 
 
