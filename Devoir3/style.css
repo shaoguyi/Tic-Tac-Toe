@@ -1,0 +1,19 @@
+p{
+    color:rgb(72, 237, 182);
+    font-size: 30px;
+    
+}
+
+h1{
+    color: rgb(252, 219, 56);
+}
+span{
+    color: purple;
+    font-size: 20px;
+}
+li{
+    color:rgb(252, 158, 174);
+}
+*{
+    background-color:beige;
+}
