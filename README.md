@@ -16,7 +16,8 @@
 
 ![image](https://github.com/shaoguyi/Tic-Tac-Toe/assets/114022474/83cf820b-ff3f-4036-a29d-c5fb0c5a8635)
 
-![image](https://github.com/shaoguyi/Tic-Tac-Toe/assets/114022474/f679c7ee-2304-44ab-95d4-855b9b685ca8)
+![image](https://github.com/shaoguyi/Tic-Tac-Toe/assets/114022474/171c3500-8dc8-4dfb-a712-62e8076d4cd5)
+
 
 
 
